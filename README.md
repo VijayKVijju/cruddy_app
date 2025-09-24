@@ -36,6 +36,7 @@ per window which is mapped back to characters via a fixed dictionary.
 `CRUDDY APP IS THE BEST IN THE WORLD`
 
 ## Run
+
 flutter pub get
 flutter run
 

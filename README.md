@@ -48,7 +48,7 @@ flutter test
 - Fixed timing (300ms+100ms). If files vary, auto-segmentation via envelope detection is needed.
 - Simple nearest-neighbour matching; could be improved with peak interpolation and tolerance per-band.
 
-## Ideas
+## Ideas,
 - Live spectrum visualizer
 - Microphone live decode
 - Export decoded text as file
